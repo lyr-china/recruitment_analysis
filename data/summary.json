@@ -1,0 +1,2014 @@
+{
+  "source": "实习僧公开搜索页",
+  "keywords": "人工智能、机器学习、Python、算法工程师、数据分析",
+  "collected_at": "2026-09-21",
+  "job_count": 263,
+  "city_count": 22,
+  "avg_salary": 250.1,
+  "salary_count": 251,
+  "city_counts": [
+    [
+      "北京",
+      85
+    ],
+    [
+      "上海",
+      76
+    ],
+    [
+      "深圳",
+      27
+    ],
+    [
+      "成都",
+      13
+    ],
+    [
+      "苏州",
+      9
+    ],
+    [
+      "广州",
+      9
+    ],
+    [
+      "杭州",
+      8
+    ],
+    [
+      "南京",
+      8
+    ],
+    [
+      "武汉",
+      4
+    ],
+    [
+      "全国",
+      4
+    ],
+    [
+      "济南",
+      3
+    ],
+    [
+      "合肥",
+      2
+    ],
+    [
+      "东莞",
+      2
+    ],
+    [
+      "天津",
+      2
+    ],
+    [
+      "大连",
+      2
+    ],
+    [
+      "重庆",
+      2
+    ],
+    [
+      "长沙",
+      2
+    ],
+    [
+      "郑州",
+      1
+    ],
+    [
+      "省-石家庄市",
+      1
+    ],
+    [
+      "南昌",
+      1
+    ],
+    [
+      "无锡",
+      1
+    ],
+    [
+      "沈阳",
+      1
+    ]
+  ],
+  "keyword_counts": [
+    [
+      "人工智能",
+      60
+    ],
+    [
+      "Python",
+      57
+    ],
+    [
+      "算法工程师",
+      55
+    ],
+    [
+      "数据分析",
+      55
+    ],
+    [
+      "机器学习",
+      36
+    ]
+  ],
+  "tag_counts": [
+    [
+      "可转正实习",
+      77
+    ],
+    [
+      "周末双休",
+      63
+    ],
+    [
+      "实习津贴",
+      45
+    ],
+    [
+      "一对一导师",
+      42
+    ],
+    [
+      "地铁周边",
+      36
+    ],
+    [
+      "不加班",
+      26
+    ],
+    [
+      "餐补",
+      25
+    ],
+    [
+      "不打卡",
+      25
+    ],
+    [
+      "节日福利",
+      25
+    ],
+    [
+      "留学生实习",
+      23
+    ],
+    [
+      "免费班车",
+      21
+    ],
+    [
+      "实习证明",
+      18
+    ]
+  ],
+  "jobs": [
+    {
+      "title": "人工智能实习生",
+      "company": "新疆德汇新商业股份有限公司",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "人工智能应用研究员",
+      "company": "中国信通院西部分院(重庆信息通信研究院)",
+      "city": "重庆",
+      "salary": "100-120/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "机器学习/人工智能实习生",
+      "company": "麦当劳中国",
+      "city": "上海",
+      "salary": "150/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "人工智能算法研发实习",
+      "company": "北京量子信息科学研究院",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "量子人工智能研发实习",
+      "company": "北京量子信息科学研究院",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "人工智能实习生",
+      "company": "卡尤迪",
+      "city": "北京",
+      "salary": "180-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "人工智能算法工程师",
+      "company": "巨睿科技",
+      "city": "深圳",
+      "salary": "150-250/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "人工智能算法工程师",
+      "company": "上科大",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "人工智能python开发实习生",
+      "company": "达观数据",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "医学图像人工智能分析实习生招聘",
+      "company": "深圳先进院",
+      "city": "深圳",
+      "salary": "80-120/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "人工智能模型部署/训练实习生",
+      "company": "共瞻智能",
+      "city": "成都",
+      "salary": "100-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "数据标注人工智能训练师",
+      "company": "多鲸资本",
+      "city": "郑州",
+      "salary": "150-250/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI 原生应用开发实习生",
+      "company": "登弘",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI开发实习生（AI coding / 自动化 / 爬虫方向）",
+      "company": "麦汐科技",
+      "city": "北京",
+      "salary": "250-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI Application development Internship - AI应用开发实习生",
+      "company": "宝马中国",
+      "city": "北京",
+      "salary": "薪资面议",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI Agent实习生——vM",
+      "company": "博世中国",
+      "city": "苏州",
+      "salary": "180-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI开发工程师实习生",
+      "company": "益普索",
+      "city": "上海",
+      "salary": "120-150/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "本地部署多模态大语言模型实习生",
+      "company": "法雷奥",
+      "city": "深圳",
+      "salary": "150-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "大模型应用开发（可转正）",
+      "company": "艾思克瑞",
+      "city": "杭州",
+      "salary": "200-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI应用开发实习生(J14534)",
+      "company": "万兴科技Wondershare",
+      "city": "长沙",
+      "salary": "200-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "仿真平台构建实习生",
+      "company": "中国电信人工智能研究院",
+      "city": "上海",
+      "salary": "300-500/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI Agent developer-下AN kangkang",
+      "company": "博世中国",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI实习生",
+      "company": "友邦资讯科技",
+      "city": "成都",
+      "salary": "150-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI应用开发实习生",
+      "company": "云体科技",
+      "city": "苏州",
+      "salary": "150-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI应用开发实习生",
+      "company": "省金茂公司",
+      "city": "南京",
+      "salary": "50-80/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI开发实习生",
+      "company": "瀚晖制药",
+      "city": "上海",
+      "salary": "120-150/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI软件开发工程师实习生-2o27届(A249869)",
+      "company": "小米",
+      "city": "上海",
+      "salary": "250-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI智能体应用研发实习生",
+      "company": "NIO蔚来",
+      "city": "上海",
+      "salary": "250-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI应用开发实习生",
+      "company": "百度",
+      "city": "上海",
+      "salary": "200-250/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "公司直属-智能体应用开发实习生",
+      "company": "国金证券",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI应用探索实习生",
+      "company": "之禾ICICLE",
+      "city": "上海",
+      "salary": "150-180/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "具身智能与巡检机器人研发工程师",
+      "company": "天府宇宙线研究中心",
+      "city": "成都",
+      "salary": "薪资面议",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "无障碍科技 - AI算法与软件开发实习",
+      "company": "源兴邦能源",
+      "city": "深圳",
+      "salary": "80-100/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "大模型工程架构研发实习生",
+      "company": "百度",
+      "city": "北京",
+      "salary": "200-250/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "NLu实习生",
+      "company": "Naturali",
+      "city": "北京",
+      "salary": "300-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI intern",
+      "company": "必维",
+      "city": "上海",
+      "salary": "250-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI赋能开发实习生-Gs",
+      "company": "博世中国",
+      "city": "上海",
+      "salary": "250-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "人工智能与数据实习生",
+      "company": "德勤全球交付中心",
+      "city": "重庆",
+      "salary": "120-150/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI实习生",
+      "company": "清华四川能源互联网研究院",
+      "city": "成都",
+      "salary": "100/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI医疗大模型应用开发实习生",
+      "company": "普惠恒丰",
+      "city": "南京",
+      "salary": "150-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI应用开发实习生（法律科技方向）",
+      "company": "小律同学",
+      "city": "广州",
+      "salary": "薪资面议",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "北大AI算子开发",
+      "company": "电装",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "[实习转正] AI+应用研发(Agent/skill/harness/视频处理)",
+      "company": "雄启新程",
+      "city": "上海",
+      "salary": "200-250/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "自动驾驶开发及Ad/AI算子开发（研发方向）",
+      "company": "电装",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI大模型应用开发（可转正）",
+      "company": "蜀俊博凌",
+      "city": "成都",
+      "salary": "200-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "机器人仿真实习生（操作方向）",
+      "company": "Palatial Technology",
+      "city": "杭州",
+      "salary": "300-500/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "研发实习生 （AI提效方向）",
+      "company": "欧摩威中国",
+      "city": "苏州",
+      "salary": "180-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI助理实习生-大连",
+      "company": "拜耳",
+      "city": "大连",
+      "salary": "120-180/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "机器人研发岗",
+      "company": "中建东方装饰有限公司",
+      "city": "上海",
+      "salary": "100-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI模型部署实习生",
+      "company": "观宇致远",
+      "city": "北京",
+      "salary": "250-500/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "Miclaw-AI agent开发实习生(A4274o)",
+      "company": "小米",
+      "city": "南京",
+      "salary": "250-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI项目支持实习生",
+      "company": "博西家电 B/S/H/",
+      "city": "南京",
+      "salary": "250-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "实习-AI+可控核聚变模拟算法研究（模拟方向）(A137555)",
+      "company": "上海科学智能研究院",
+      "city": "上海",
+      "salary": "200-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "vLM Agent实习生",
+      "company": "索尼（中国）",
+      "city": "深圳",
+      "salary": "200-250/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "3d/bev感知算法实习生",
+      "company": "地平线",
+      "city": "北京",
+      "salary": "250-400/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "Mvs算法工程师(北京/上海)",
+      "company": "地平线",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "sRcb-机器人/机械臂软件开发实习生",
+      "company": "中国三星",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "AI交付",
+      "company": "睿晟广告",
+      "city": "北京",
+      "salary": "150-200/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "数据标注/AI训练师",
+      "company": "临凡霏科技有限公司",
+      "city": "济南",
+      "salary": "180-250/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "数据标注/AI训练师",
+      "company": "甲骨易",
+      "city": "长沙",
+      "salary": "100-150/天",
+      "keyword": "人工智能"
+    },
+    {
+      "title": "机器学习后训练研究员",
+      "company": "蔷薇科技",
+      "city": "杭州",
+      "salary": "400-500/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器学习预训练研究员",
+      "company": "蔷薇科技",
+      "city": "杭州",
+      "salary": "400-500/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器学习/自然语言处理算法研发实习生",
+      "company": "百度",
+      "city": "北京",
+      "salary": "300-400/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "Agent平台全栈研发工程师（练习生）",
+      "company": "小红书",
+      "city": "上海",
+      "salary": "薪资面议",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "Agent平台全栈研发工程师（练习生）",
+      "company": "小红书",
+      "city": "北京",
+      "salary": "薪资面议",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "音频算法实习生",
+      "company": "筑流科技",
+      "city": "广州",
+      "salary": "250-400/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "大模型仿真环境与RL奖励设计-实习生（博士）",
+      "company": "Cookiiy AI",
+      "city": "北京",
+      "salary": "400-800/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "具⾝智能 / vLA 算法实习⽣-bud",
+      "company": "博世中国",
+      "city": "上海",
+      "salary": "250-300/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "具身智能系统开发实习生",
+      "company": "爱科斯机器人",
+      "city": "上海",
+      "salary": "150-300/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "具身智能控制算法实习生",
+      "company": "Siemens Healthineers",
+      "city": "上海",
+      "salary": "250-300/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "自动驾驶强化学习实习生",
+      "company": "千里科技",
+      "city": "上海",
+      "salary": "250-300/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "sRcb-人形机器人系统集成与优化实习生",
+      "company": "中国三星",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "sRcb-人形机器人数采/真机部署优化实习生",
+      "company": "中国三星",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "【Ace顶尖实习生】全模态大模型理解与生成轻量化及加速算法研究",
+      "company": "小红书",
+      "city": "杭州",
+      "salary": "薪资面议",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "【Ace顶尖实习生】全模态大模型理解与生成轻量化及加速算法研究",
+      "company": "小红书",
+      "city": "深圳",
+      "salary": "薪资面议",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "【Ace顶尖实习生】全模态大模型理解与生成轻量化及加速算法研究",
+      "company": "小红书",
+      "city": "北京",
+      "salary": "薪资面议",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "【Ace顶尖实习生】全模态大模型理解与生成轻量化及加速算法研究",
+      "company": "小红书",
+      "city": "上海",
+      "salary": "薪资面议",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "【Ace顶尖实习生】全模态Agent长程任务RL算法+工程co-design研究",
+      "company": "小红书",
+      "city": "上海",
+      "salary": "薪资面议",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "【Ace顶尖实习生】全模态Agent长程任务RL算法+工程co-design研究",
+      "company": "小红书",
+      "city": "北京",
+      "salary": "薪资面议",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "大模型高性能优化研发实习",
+      "company": "百度",
+      "city": "北京",
+      "salary": "400-800/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "大模型训练基建研发实习生",
+      "company": "百度",
+      "city": "北京",
+      "salary": "400-800/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "sRcb-人形机器人规划/导航开发实习生",
+      "company": "中国三星",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "sRcb-s future人形机器人全身运动控制算法实习生（强化学习方向）",
+      "company": "中国三星",
+      "city": "北京",
+      "salary": "300-500/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "sRcb-s future具身智能操作实习生",
+      "company": "中国三星",
+      "city": "北京",
+      "salary": "300-500/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器学习实习生",
+      "company": "深睿医疗",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器学习实习生",
+      "company": "知能科技",
+      "city": "北京",
+      "salary": "250-500/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器学习实习生",
+      "company": "趋势科技",
+      "city": "南京",
+      "salary": "200/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器学习实习生",
+      "company": "智融信达",
+      "city": "上海",
+      "salary": "500-1000/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器学习实习生",
+      "company": "智融信达",
+      "city": "深圳",
+      "salary": "500-1000/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "算法工程师-机器学习",
+      "company": "京东",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器学习算法工程师",
+      "company": "智融信达",
+      "city": "全国",
+      "salary": "500-1000/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "科学机器学习算法研究实习生",
+      "company": "博西家电 B/S/H/",
+      "city": "上海",
+      "salary": "250-400/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "无人机机器学习开发工程师实习生",
+      "company": "星逻智能",
+      "city": "上海",
+      "salary": "130-260/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "算法工程师（图像/信号/机器学习/NLp）",
+      "company": "数之联",
+      "city": "成都",
+      "salary": "150-200/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "具身机器人数据工程实习生",
+      "company": "科大讯飞",
+      "city": "合肥",
+      "salary": "80-120/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "机器人/小车调试实习生",
+      "company": "科大讯飞",
+      "city": "广州",
+      "salary": "150-200/天",
+      "keyword": "机器学习"
+    },
+    {
+      "title": "python开发实习生",
+      "company": "友邦资讯科技",
+      "city": "北京",
+      "salary": "180-250/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python开发实习生",
+      "company": "埃森哲",
+      "city": "大连",
+      "salary": "150/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python开发实习生",
+      "company": "保亚科技",
+      "city": "成都",
+      "salary": "120-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python开发实习生",
+      "company": "达观数据",
+      "city": "成都",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python研发实习生",
+      "company": "云孚科技",
+      "city": "北京",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python开发工程师",
+      "company": "南京畅淼",
+      "city": "南京",
+      "salary": "150-250/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python爬虫实习生",
+      "company": "北京智慧星光信息技术有限公司",
+      "city": "北京",
+      "salary": "100-150/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python交易运维开发工程师",
+      "company": "蔷薇科技",
+      "city": "杭州",
+      "salary": "300-500/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python开发实习",
+      "company": "达观数据",
+      "city": "上海",
+      "salary": "200-250/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python开发工程师",
+      "company": "星逻智能",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python游戏开发实习生（双休/包餐）",
+      "company": "红石创想",
+      "city": "广州",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python全栈开发实习生（可转正）",
+      "company": "友邦资讯科技",
+      "city": "成都",
+      "salary": "180-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python开发实习生（大模型评测方向）",
+      "company": "百度",
+      "city": "北京",
+      "salary": "250-400/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python后端开发实习生",
+      "company": "美因特信息科技",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python 开发实习生",
+      "company": "中视天威",
+      "city": "北京",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "python开发实习生（大模型方向）",
+      "company": "百度",
+      "city": "北京",
+      "salary": "250-400/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "软件开发工程师 python/c++/c#",
+      "company": "谦信投资",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "量化研究实习生（python）投研",
+      "company": "棱镜私募基金",
+      "city": "北京",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "实习生（会vb或python) 财务部",
+      "company": "PTCN",
+      "city": "上海",
+      "salary": "120-150/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "I下审计与自动化开发（python/sqL）",
+      "company": "百胜餐饮",
+      "city": "上海",
+      "salary": "150-180/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "图像算法实习生",
+      "company": "互觉科技",
+      "city": "上海",
+      "salary": "180-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "web后端开发工程师",
+      "company": "云合智网",
+      "city": "上海",
+      "salary": "300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "RpA实习生",
+      "company": "她研社",
+      "city": "上海",
+      "salary": "150-180/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "软件开发工程师",
+      "company": "探赜利准",
+      "city": "天津",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "Azure 微服务开发实习生",
+      "company": "IAV",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "软件开发工程师（工具开发方向）",
+      "company": "OPPO",
+      "city": "深圳",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "后端开发实习生",
+      "company": "数韵科技",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "下ensorR下深度学习推理",
+      "company": "星逻智能",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "辅助系统工程师-xc",
+      "company": "博世中国",
+      "city": "苏州",
+      "salary": "180-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "融合算法学员-xc",
+      "company": "博世中国",
+      "city": "苏州",
+      "salary": "180-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "深度学习算法实习生",
+      "company": "地平线",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "深度学习算法实习生",
+      "company": "地平线",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "医疗影像算法研发实习生",
+      "company": "HRG合肥研究院",
+      "city": "合肥",
+      "salary": "200-250/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "AI Agent开发（可转正）",
+      "company": "墨泊可士",
+      "city": "深圳",
+      "salary": "200-400/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "AI Agent开发（可转正）",
+      "company": "蜀俊博凌",
+      "city": "成都",
+      "salary": "200-400/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "AI大模型应用开发实习生",
+      "company": "IAV",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "AI视觉与AIGc应用开发实习生",
+      "company": "索尼（中国）",
+      "city": "深圳",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "后端开发实习生 - 飞书",
+      "company": "字节跳动",
+      "city": "深圳",
+      "salary": "薪资面议",
+      "keyword": "Python"
+    },
+    {
+      "title": "软件工程师",
+      "company": "英沣特",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "data AI实习生-预测性维护方向",
+      "company": "法雷奥",
+      "city": "深圳",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "网约车技术部（5）-后端研发实习生",
+      "company": "滴滴",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "量化算法工程师",
+      "company": "武汉嘉量",
+      "city": "武汉",
+      "salary": "80-100/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "量化算法工程师实习生",
+      "company": "武汉嘉量",
+      "city": "武汉",
+      "salary": "80-100/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "AI -后端研发实习生（2）",
+      "company": "滴滴",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "AI-后端研发实习生",
+      "company": "滴滴",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "大模型后训练研发实习生",
+      "company": "世纪前沿",
+      "city": "深圳",
+      "salary": "1000-2000/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "后端开发实习生",
+      "company": "POTENTIA",
+      "city": "上海",
+      "salary": "300-500/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "量化开发岗",
+      "company": "方普投资",
+      "city": "北京",
+      "salary": "100/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "量化策略研究实习生(JJ8Mv)",
+      "company": "凯丰投资",
+      "city": "上海",
+      "salary": "250-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "战略业务事业群-后端研发实习生",
+      "company": "滴滴",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "量子计算软件与算法研究实习生",
+      "company": "北京量子信息科学研究院",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "量化编程实习生",
+      "company": "建信期货",
+      "city": "上海",
+      "salary": "100-150/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "量化平台开发工程师实习",
+      "company": "稳博投资",
+      "city": "上海",
+      "salary": "400-800/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "后端研发实习生",
+      "company": "地平线",
+      "city": "北京",
+      "salary": "200-300/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "golang开发工程师",
+      "company": "百度",
+      "city": "北京",
+      "salary": "200-250/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "edA软件设计工程师（北京/苏州）",
+      "company": "宽温",
+      "city": "苏州",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "自然语言处理工程师",
+      "company": "云孚科技",
+      "city": "北京",
+      "salary": "150-200/天",
+      "keyword": "Python"
+    },
+    {
+      "title": "算法工程师-数据挖掘",
+      "company": "京东",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "纳米维景集团",
+      "city": "上海",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "柯西黎曼",
+      "city": "深圳",
+      "salary": "120-200/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "一影医疗",
+      "city": "上海",
+      "salary": "180-250/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "OPPO",
+      "city": "深圳",
+      "salary": "200-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "OPPO",
+      "city": "上海",
+      "salary": "150-250/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "Flow++",
+      "city": "全国",
+      "salary": "150-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "一平方科技",
+      "city": "北京",
+      "salary": "150-200/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "洪朴信息",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师-算法工程",
+      "company": "京东",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "健康算法工程师",
+      "company": "OPPO",
+      "city": "深圳",
+      "salary": "150-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "AI算法工程师",
+      "company": "广联达",
+      "city": "北京",
+      "salary": "200/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师-自然语言处理",
+      "company": "京东",
+      "city": "成都",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师-自然语言处理",
+      "company": "京东",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "LbM算法工程师",
+      "company": "适创科技",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "图像处理算法工程师",
+      "company": "星逻智能",
+      "city": "苏州",
+      "salary": "150-200/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "二维算法工程师",
+      "company": "智拓视界",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "数值算法工程师",
+      "company": "舜云科技",
+      "city": "苏州",
+      "salary": "200-250/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师",
+      "company": "众阳健康科技",
+      "city": "济南",
+      "salary": "150-180/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "计算机视觉算法工程师",
+      "company": "海深科技",
+      "city": "上海",
+      "salary": "300-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "国际化搜推算法工程师",
+      "company": "小红书",
+      "city": "上海",
+      "salary": "350-500/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "国际化搜推算法工程师",
+      "company": "小红书",
+      "city": "杭州",
+      "salary": "350-500/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "国际化搜推算法工程师",
+      "company": "小红书",
+      "city": "北京",
+      "salary": "350-500/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法与应用研究工程师",
+      "company": "迈瑞医疗",
+      "city": "北京",
+      "salary": "200-250/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "灵巧操作算法工程师",
+      "company": "艾莫机器人科技（深圳）有限公司",
+      "city": "深圳",
+      "salary": "100-200/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "具身智能算法工程师",
+      "company": "纬钛机器人",
+      "city": "苏州",
+      "salary": "250-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "计算机视觉算法工程师",
+      "company": "OPPO",
+      "city": "北京",
+      "salary": "250-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师（语音实习）",
+      "company": "平安科技",
+      "city": "深圳",
+      "salary": "200-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "姿态解算算法工程师",
+      "company": "OPPO",
+      "city": "东莞",
+      "salary": "300-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师（视觉实习）",
+      "company": "平安科技",
+      "city": "深圳",
+      "salary": "200-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师-计算机视觉",
+      "company": "京东",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师-计算机视觉",
+      "company": "京东",
+      "city": "成都",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师-计算机图形",
+      "company": "京东",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师-运筹优化",
+      "company": "京东",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师-语音识别/语音合成",
+      "company": "京东",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "大模型算法工程师",
+      "company": "中科蓝智",
+      "city": "武汉",
+      "salary": "80-150/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "感知算法工程师（实习生）",
+      "company": "擎朗智能",
+      "city": "上海",
+      "salary": "250-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "图像算法实习工程师",
+      "company": "心寰科技",
+      "city": "深圳",
+      "salary": "150-250/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "结构光算法工程师",
+      "company": "智拓视界",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "机器视觉算法工程师",
+      "company": "智拓视界",
+      "city": "北京",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "语音算法工程师",
+      "company": "北京脑利科技",
+      "city": "北京",
+      "salary": "800/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "数据算法工程师",
+      "company": "NIO蔚来",
+      "city": "上海",
+      "salary": "400-500/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "显示算法工程师",
+      "company": "芯原",
+      "city": "成都",
+      "salary": "150-200/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "AdAs算法工程师",
+      "company": "裕峻汽车",
+      "city": "北京",
+      "salary": "400-800/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "视觉算法工程师",
+      "company": "华拓",
+      "city": "东莞",
+      "salary": "180-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "无人驾驶算法工程师",
+      "company": "有象智联科技",
+      "city": "广州",
+      "salary": "150-200/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "机器人算法工程师",
+      "company": "有象智联科技",
+      "city": "广州",
+      "salary": "150-200/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "点云算法工程师",
+      "company": "博联众科",
+      "city": "武汉",
+      "salary": "80-150/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师（搜推广方向）",
+      "company": "OPPO",
+      "city": "北京",
+      "salary": "200-250/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师（数据挖掘实习)",
+      "company": "平安科技",
+      "city": "深圳",
+      "salary": "200-300/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "自动驾驶算法工程师实习生",
+      "company": "地平线",
+      "city": "上海",
+      "salary": "200-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "计算机视觉算法工程师（实习）",
+      "company": "Fitlab(纷来智能）",
+      "city": "深圳",
+      "salary": "400-800/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "电商推荐算法工程师实习生(J1o58o5)",
+      "company": "百度",
+      "city": "上海",
+      "salary": "250-500/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "算法工程师实习生-2o27届(A1o6353)",
+      "company": "小米",
+      "city": "北京",
+      "salary": "250-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "Agent 应用算法工程师实习生",
+      "company": "新浪微博",
+      "city": "北京",
+      "salary": "300-400/天",
+      "keyword": "算法工程师"
+    },
+    {
+      "title": "数据分析",
+      "company": "京东",
+      "city": "省-石家庄市",
+      "salary": "200-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析",
+      "company": "中财进宝",
+      "city": "北京",
+      "salary": "150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析",
+      "company": "晤源信息",
+      "city": "南昌",
+      "salary": "120-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "Halara",
+      "city": "上海",
+      "salary": "150-180/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "嘉宝幼儿园",
+      "city": "上海",
+      "salary": "100/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "万宝盛华大中华",
+      "city": "上海",
+      "salary": "180/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "携程集团",
+      "city": "上海",
+      "salary": "200-250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "博西家电 B/S/H/",
+      "city": "南京",
+      "salary": "150-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "众安科技",
+      "city": "北京",
+      "salary": "180-250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析（偏数科）",
+      "company": "晖致医药",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "网易有道",
+      "city": "北京",
+      "salary": "200-250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "众安科技",
+      "city": "杭州",
+      "salary": "200-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "快手",
+      "city": "北京",
+      "salary": "250-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "家得宝",
+      "city": "上海",
+      "salary": "150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "姚记科技",
+      "city": "上海",
+      "salary": "150-250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "手回科技集团",
+      "city": "深圳",
+      "salary": "150-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析工程师",
+      "company": "OPPO",
+      "city": "上海",
+      "salary": "100-150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "众安保险",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "飞未云科",
+      "city": "广州",
+      "salary": "120-150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "太合音乐集团",
+      "city": "北京",
+      "salary": "120/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "小红书",
+      "city": "上海",
+      "salary": "350-400/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "万宝盛华大中华",
+      "city": "广州",
+      "salary": "250-400/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "网易",
+      "city": "北京",
+      "salary": "120-150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "飞未云科",
+      "city": "上海",
+      "salary": "120-150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "飞未云科",
+      "city": "深圳",
+      "salary": "180-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "博睿盛伦国际咨询",
+      "city": "济南",
+      "salary": "100-120/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "中宏保险",
+      "city": "上海",
+      "salary": "150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "百度",
+      "city": "北京",
+      "salary": "120-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "哔哩哔哩",
+      "city": "上海",
+      "salary": "200-250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "哈啰",
+      "city": "上海",
+      "salary": "200-250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "希捷科技",
+      "city": "无锡",
+      "salary": "250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "百融智能",
+      "city": "北京",
+      "salary": "200-250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "阳狮集团",
+      "city": "北京",
+      "salary": "100/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "焦点科技",
+      "city": "南京",
+      "salary": "100-150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "途家网",
+      "city": "北京",
+      "salary": "150-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "shopee",
+      "city": "深圳",
+      "salary": "150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习",
+      "company": "eBay",
+      "city": "深圳",
+      "salary": "250-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "第一创业证券",
+      "city": "深圳",
+      "salary": "150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "CityDNA",
+      "city": "北京",
+      "salary": "200-250/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "国准数据",
+      "city": "全国",
+      "salary": "200-400/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "spss数据分析",
+      "company": "安徽志成",
+      "city": "全国",
+      "salary": "100-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "广州银行信用卡中心",
+      "city": "广州",
+      "salary": "100/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "北京大数据研究院",
+      "city": "北京",
+      "salary": "100-150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "快看世界",
+      "city": "北京",
+      "salary": "150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析工程师",
+      "company": "气电集团",
+      "city": "北京",
+      "salary": "80-100/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习岗",
+      "company": "智汇绿行",
+      "city": "北京",
+      "salary": "120-150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析（实习）",
+      "company": "北方信托",
+      "city": "北京",
+      "salary": "100/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "瑞天欣实数据",
+      "city": "沈阳",
+      "salary": "150-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "雨诉投资",
+      "city": "上海",
+      "salary": "200-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "渊泓投资",
+      "city": "上海",
+      "salary": "100-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "瑞天欣实数据",
+      "city": "天津",
+      "salary": "150-300/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "龙腾咨询",
+      "city": "上海",
+      "salary": "100-150/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "闵金投资",
+      "city": "上海",
+      "salary": "150-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "Agora Space",
+      "city": "上海",
+      "salary": "100-200/天",
+      "keyword": "数据分析"
+    },
+    {
+      "title": "数据分析实习生",
+      "company": "济地金融",
+      "city": "上海",
+      "salary": "150-180/天",
+      "keyword": "数据分析"
+    }
+  ]
+}
