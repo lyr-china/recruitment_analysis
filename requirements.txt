@@ -1,0 +1,10 @@
+pandas
+matplotlib
+flask
+requests
+beautifulsoup4
+lxml
+fonttools
+pillow
+ddddocr
+gunicorn
